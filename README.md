@@ -8,6 +8,9 @@ This repository contains country code lists used by various answer engines. Each
 - `copilot_countries.csv`
 - `gemini_countries.csv`
 - `perplexity_countries.csv`
+- `google_aimode_countries.csv`
+- `meta_countries.csv`
+- `grok_countries.csv`
 
 ### Structure
 
