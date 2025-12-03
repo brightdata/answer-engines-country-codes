@@ -9,12 +9,14 @@ Anguilla,AI
 Antigua and Barbuda,AG
 Argentina,AR
 Armenia,AM
+Austria,AT
 Azerbaijan,AZ
 Bahamas,BS
 Bahrain,BH
 Bangladesh,BD
 Barbados,BB
 Belarus,BY
+Belgium,BE
 Belize,BZ
 Benin,BJ
 Bermuda,BM
@@ -45,6 +47,8 @@ Congo (DRC),CD
 Cook Islands,CK
 Costa Rica,CR
 Côte d'Ivoire,CI
+Croatia,HR
+Denmark,DK
 Djibouti,DJ
 Dominica,DM
 Dominican Republic,DO
@@ -53,16 +57,20 @@ Egypt,EG
 El Salvador,SV
 Equatorial Guinea,GQ
 Eritrea,ER
+Estonia,EE
 Ethiopia,ET
 Eswatini,SZ
 Falkland Islands (Malvinas),FK
 Faroe Islands,FO
 Fiji,FJ
+Finland,FI
 Gabon,GA
 Gambia,GM
 Georgia,GE
+Germany,DE
 Ghana,GH
 Gibraltar,GI
+Greece,GR
 Grenada,GD
 Guam,GU
 Guatemala,GT
@@ -74,10 +82,13 @@ Haiti,HT
 Heard Island and Mcdonald Islands,HM
 Honduras,HN
 Hong Kong,HK
+Hungary,HU
 India,IN
 Indonesia,ID
+Ireland,IE
 Isle of Man,IM
 Israel,IL
+Italy,IT
 Jamaica,JM
 Japan,JP
 Jersey,JE
@@ -115,6 +126,7 @@ Myanmar (Burma),MM
 Namibia,NA
 Nauru,NR
 Nepal,NP
+Netherlands,NL
 New Zealand,NZ
 Nicaragua,NI
 Niger,NE
@@ -122,6 +134,7 @@ Nigeria,NG
 Niue,NU
 Norfolk Island,NF
 Northern Mariana Islands,MP
+Norway,NO
 Oman,OM
 Pakistan,PK
 Palau,PW
@@ -131,6 +144,8 @@ Paraguay,PY
 Peru,PE
 Philippines,PH
 Pitcairn Islands,PN
+Poland,PL
+Portugal,PT
 Puerto Rico,PR
 Qatar,QA
 Romania,RO
@@ -149,13 +164,18 @@ Serbia,RS
 Seychelles,SC
 Sierra Leone,SL
 Singapore,SG
+Slovakia,SK
+Slovenia,SI
 Solomon Islands,SB
 Somalia,SO
 South Africa,ZA
 South Georgia and the South Sandwich Islands,GS
+Spain,ES
 Sri Lanka,LK
 South Sudan,SS
 Suriname,SR
+Sweden,SE
+Switzerland,CH
 Taiwan, Province of China,TW
 Tajikistan,TJ
 Tanzania, United Republic of,TZ
