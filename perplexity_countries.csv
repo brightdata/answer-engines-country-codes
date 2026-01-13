@@ -37,6 +37,7 @@ CG,Congo
 CH,Switzerland
 CI,Cote D'Ivoire (Ivory Coast)
 CK,Cook Islands
+CN,China
 CL,Chile
 CM,Cameroon
 CO,Colombia
@@ -82,10 +83,12 @@ HN,Honduras
 HR,Croatia (Hrvatska)
 HT,Haiti
 HU,Hungary
+ID,Indonesia
 IE,Ireland
 IL,Israel
 IM,Isle of Man
 IN,India
+IR,Iran
 IS,Iceland
 IT,Italy
 JE,Bailiwick of Jersey
@@ -139,6 +142,7 @@ NG,Nigeria
 NI,Nicaragua
 NL,Netherlands
 NO,Norway
+KP,North Korea
 NP,Nepal
 NZ,New Zealand
 OM,Oman
@@ -157,6 +161,7 @@ RE,Réunion
 RO,Romania
 RS,Serbia
 RW,Rwanda
+RU,Russia
 SA,Saudi Arabia
 SB,Solomon Islands
 SC,Seychelles
@@ -204,4 +209,5 @@ YT,Mayotte
 ZA,South Africa
 ZM,Zambia
 ZW,Zimbabwe
+
 
