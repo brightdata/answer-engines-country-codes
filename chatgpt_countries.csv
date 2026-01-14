@@ -76,11 +76,9 @@ GD,Grenada
 GE,Georgia
 GF,French Guiana
 GH,Ghana
-GI,Gibraltar
 GL,Greenland
 GM,Gambia
 GN,Guinea
-GP,Guadeloupe
 GQ,Equatorial Guinea
 GR,Greece
 GS,South Georgia And South Sandwich Islands
@@ -96,12 +94,10 @@ HU,Hungary
 ID,Indonesia
 IE,Ireland
 IL,Israel
-IM,Isle of Man
 IN,India
 IO,British Indian Ocean Territory
 IS,Iceland
 IT,Italy
-JE,Bailiwick of Jersey
 JM,Jamaica
 JO,Jordan
 JP,Japan
@@ -169,7 +165,6 @@ PK,Pakistan
 PL,Poland
 PM,Saint Pierre and Miquelon
 PN,Pitcairn
-PR,Puerto Rico
 PT,Portugal
 PW,Palau
 PY,Paraguay
@@ -220,8 +215,6 @@ UY,Uruguay
 UZ,Uzbekistan
 VC,Saint Vincent And The Grenadines
 VE,Venezuela
-VG,Virgin Islands (British)
-VI,Virgin Islands (US)
 VN,Vietnam
 VU,Vanuatu
 WF,Wallis And Futuna Islands
@@ -232,5 +225,6 @@ YT,Mayotte
 ZA,South Africa
 ZM,Zambia
 ZW,Zimbabwe
+
 
 
