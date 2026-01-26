@@ -1,86 +1,130 @@
 Country Code,Country
+AD,Andorra
 AE,United Arab Emirates
 AF,Afghanistan
-AG,Antigua And Barbuda
+AG,Antigua and Barbuda
+AI,Anguilla
 AL,Albania
 AM,Armenia
 AO,Angola
 AR,Argentina
 AS,American Samoa
+AT,Austria
 AU,Australia
-AZ,Azerbaijan
-BA,Bosnia And Herzegovina
+AW,Aruba
+AX,Åland Islands
+BA,Bosnia and Herzegovina
 BB,Barbados
 BD,Bangladesh
+BF,Burkina Faso
+BG,Bulgaria
 BH,Bahrain
 BI,Burundi
 BJ,Benin
+BL,Saint Barthélemy
+BM,Bermuda
 BN,Brunei
 BO,Bolivia
+BQ,Caribbean Netherlands (Bonaire, Sint Eustatius and Saba)
 BR,Brazil
 BS,Bahamas
 BT,Bhutan
 BW,Botswana
 BZ,Belize
 CA,Canada
-CD,Democratic Republic Of Congo (Zaire)
+CD,Democratic Republic of the Congo
 CF,Central African Republic
-CG,Congo
-CI,Cote D'Ivoire (Ivory Coast)
+CG,Republic of the Congo
+CH,Switzerland
+CI,Côte d’Ivoire
+CK,Cook Islands
+CL,Chile
 CM,Cameroon
 CO,Colombia
 CR,Costa Rica
 CV,Cape Verde
+CW,Curaçao
+CY,Cyprus
+DE,Germany
 DJ,Djibouti
+DK,Denmark
 DM,Dominica
 DO,Dominican Republic
 DZ,Algeria
 EC,Ecuador
+EE,Estonia
 EG,Egypt
 ET,Ethiopia
+FI,Finland
 FJ,Fiji
-FM,Micronesia
+FK,Falkland Islands
+FM,Federated States of Micronesia
 FO,Faroe Islands
+FR,France
 GA,Gabon
+GB,United Kingdom
 GD,Grenada
 GE,Georgia
+GF,French Guiana
+GG,Guernsey
 GH,Ghana
+GL,Greenland
 GM,Gambia
 GN,Guinea
 GQ,Equatorial Guinea
+GR,Greece
 GT,Guatemala
 GU,Guam
 GW,Guinea-Bissau
 GY,Guyana
 HN,Honduras
+HR,Croatia
 HT,Haiti
-IN,India
-JP,Japan
+HU,Hungary
+ID,Indonesia
+IE,Ireland
+IL,Israel
+IM,Isle of Man
+IO,British Indian Ocean Territory
+IS,Iceland
+IT,Italy
+JE,Jersey
+JM,Jamaica
+JO,Jordan
 KE,Kenya
 KG,Kyrgyzstan
 KH,Cambodia
+KI,Kiribati
 KM,Comoros
-KN,Saint Kitts And Nevis
+KN,Saint Kitts and Nevis
 KR,South Korea
 KW,Kuwait
 KZ,Kazakhstan
 LA,Laos
 LC,Saint Lucia
+LI,Liechtenstein
 LK,Sri Lanka
 LR,Liberia
 LS,Lesotho
+LT,Lithuania
+LU,Luxembourg
+LV,Latvia
 LY,Libya
 MA,Morocco
+MC,Monaco
 MD,Moldova
 ME,Montenegro
+MF,Saint Martin (French part)
 MG,Madagascar
 MH,Marshall Islands
-MK,Macedonia
+MK,North Macedonia
 ML,Mali
-MM,Myanmar (Burma)
+MM,Myanmar
 MN,Mongolia
 MP,Northern Mariana Islands
+MQ,Martinique
 MR,Mauritania
+MT,Malta
 MU,Mauritius
 MV,Maldives
 MW,Malawi
@@ -88,41 +132,61 @@ MX,Mexico
 MY,Malaysia
 MZ,Mozambique
 NA,Namibia
+NAN,Netherlands Antilles
+NC,New Caledonia
 NE,Niger
 NG,Nigeria
 NI,Nicaragua
+NL,Netherlands
+NO,Norway
 NP,Nepal
+NR,Nauru
 NZ,New Zealand
 OM,Oman
 PA,Panama
 PE,Peru
+PF,French Polynesia
 PG,Papua New Guinea
 PH,Philippines
 PK,Pakistan
+PM,Saint Pierre and Miquelon
+PR,Puerto Rico
+PT,Portugal
+PW,Palau
 PY,Paraguay
 QA,Qatar
+RE,Réunion
+RO,Romania
 RS,Serbia
 RW,Rwanda
 SA,Saudi Arabia
 SB,Solomon Islands
 SC,Seychelles
 SG,Singapore
+SH,Saint Helena
+SI,Slovenia
+SK,Slovakia
+SL,Sierra Leone
 SN,Senegal
 SO,Somalia
 SR,Suriname
 SS,South Sudan
-ST,Sao Tome And Principe
+ST,São Tomé and Príncipe
 SV,El Salvador
-SZ,Swaziland
+SX,Sint Maarten (Dutch part)
+SZ,Eswatini
+TC,Turks and Caicos Islands
 TD,Chad
 TG,Togo
 TH,Thailand
 TJ,Tajikistan
 TL,Timor-Leste
+TM,Turkmenistan
 TN,Tunisia
 TO,Tonga
 TR,Turkey
-TT,Trinidad And Tobago
+TT,Trinidad and Tobago
+TV,Tuvalu
 TW,Taiwan
 TZ,Tanzania
 UA,Ukraine
@@ -130,16 +194,16 @@ UG,Uganda
 US,United States
 UY,Uruguay
 UZ,Uzbekistan
-VC,Saint Vincent And The Grenadines
+VC,Saint Vincent and the Grenadines
 VE,Venezuela
-VI,Virgin Islands (US)
+VG,British Virgin Islands
+VI,U.S. Virgin Islands
 VN,Vietnam
 VU,Vanuatu
-WS,Western Samoa
+WS,Samoa
 XK,Kosovo
 YE,Yemen
+YT,Mayotte
 ZA,South Africa
 ZM,Zambia
 ZW,Zimbabwe
-
-
