@@ -1,8 +1,8 @@
 Country Code,Country
+AD,Andorra
 AE,United Arab Emirates
 AF,Afghanistan
 AG,Antigua And Barbuda
-AI,Anguilla
 AL,Albania
 AM,Armenia
 AO,Angola
@@ -29,7 +29,6 @@ BQ,Bonaire (Caribbean Netherlands)
 BS,Bahamas
 BT,Bhutan
 BW,Botswana
-BY,Belarus
 BZ,Belize
 CA,Canada
 CD,Democratic Republic Of Congo (Zaire)
@@ -37,6 +36,7 @@ CF,Central African Republic
 CG,Congo
 CH,Switzerland
 CI,Cote D'Ivoire (Ivory Coast)
+CK,Cook Islands
 CL,Chile
 CM,Cameroon
 CO,Colombia
@@ -58,6 +58,7 @@ ES,Spain
 ET,Ethiopia
 FI,Finland
 FJ,Fiji
+FK,Falkland Islands
 FM,Micronesia
 FO,Faroe Islands
 FR,France
@@ -66,6 +67,7 @@ GB,Great Britain
 GD,Grenada
 GE,Georgia
 GF,French Guiana
+GG,Guernsey
 GH,Ghana
 GI,Gibraltar
 GL,Greenland
@@ -86,7 +88,7 @@ HU,Hungary
 ID,Indonesia
 IE,Ireland
 IL,Israel
-IM,Isle of Man
+IM,Isle Of Man
 IN,India
 IS,Iceland
 JE,Bailiwick of Jersey
@@ -96,6 +98,7 @@ JP,Japan
 KE,Kenya
 KG,Kyrgyzstan
 KH,Cambodia
+KI,Kiribati
 KM,Comoros
 KN,Saint Kitts And Nevis
 KR,South Korea
@@ -134,7 +137,6 @@ MW,Malawi
 MX,Mexico
 MY,Malaysia
 MZ,Mozambique
-NA,Namibia
 NC,New Caledonia
 NE,Niger
 NG,Nigeria
@@ -142,6 +144,8 @@ NI,Nicaragua
 NL,Netherlands
 NO,Norway
 NP,Nepal
+NR,Nauru
+NU,Niue
 NZ,New Zealand
 OM,Oman
 PA,Panama
@@ -151,7 +155,7 @@ PG,Papua New Guinea
 PH,Philippines
 PK,Pakistan
 PL,Poland
-PM,Saint Pierre and Miquelon
+PM,Saint Pierre And Miquelon
 PR,Puerto Rico
 PT,Portugal
 PW,Palau
@@ -166,6 +170,7 @@ SB,Solomon Islands
 SC,Seychelles
 SE,Sweden
 SG,Singapore
+SH,Saint Helena
 SI,Slovenia
 SK,Slovak Republic
 SL,Sierra Leone
@@ -189,6 +194,7 @@ TN,Tunisia
 TO,Tonga
 TR,Turkey
 TT,Trinidad And Tobago
+TV,Tuvalu
 TW,Taiwan
 TZ,Tanzania
 UA,Ukraine
@@ -197,11 +203,11 @@ US,United States
 UY,Uruguay
 UZ,Uzbekistan
 VC,Saint Vincent And The Grenadines
-VE,Venezuela
 VG,Virgin Islands (British)
 VI,Virgin Islands (US)
 VN,Vietnam
 VU,Vanuatu
+WF,Wallis And Futuna
 WS,Western Samoa
 XK,Kosovo
 YE,Yemen
@@ -209,4 +215,3 @@ YT,Mayotte
 ZA,South Africa
 ZM,Zambia
 ZW,Zimbabwe
-
